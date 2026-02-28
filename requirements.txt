@@ -1,0 +1,2 @@
+# Add script dependencies here as needed
+# Example: requests>=2.28.0
