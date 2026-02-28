@@ -1,2 +1,6 @@
 # Add script dependencies here as needed
 # Example: requests>=2.28.0
+
+# Name extraction for compromise NLP lexicon
+names-dataset>=3.1.0
+pycountry>=22.3.5
